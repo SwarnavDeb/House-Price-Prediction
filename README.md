@@ -12,28 +12,28 @@ You are expected to use the data of the year 2016 to create a regression model w
 - Create a few hypothesis around the important variables and validate them using the data
 - Mention all the variable which are highly correlated.
 
-![Figure 1](Images/High_Correlation.PNG)
+![Figure 1](Images/High_Correlation.png)
 
 Fig: Top 10 Variables which are highly correlated with the Price Variable (Target) 
 
 
 - Build a linear regression model on the data of year 2016. Predict the price for year 2016 using this regression model, plot the regressed values against the actual values to understand the difference.
  
-![Figure 2](Images/Chart1.PNG)
+![Figure 2](Images/Chart1.png)
 
 Fig: Plotting the Regressed Values against the Actual Values to understand the difference.
 
 **Summary**
 
-![Figure 3](Images/summary_LR.PNG)
+![Figure 3](Images/summary_LR.png)
 
-![Figure 4](Images/summary_LR_Anova.PNG)
+![Figure 4](Images/summary_LR_Anova.png)
 
-![Figure 5](Images/summary_LR_Coefficents.PNG)
+![Figure 5](Images/summary_LR_Coefficents.png)
 
 - Using the above linear regression model, predict the prices of the houses sold in the year 2017. Interpret your findings from the model.
 
-![Figure 6](Images/Chart2.PNG)
+![Figure 6](Images/Chart2.png)
 
 Fig: Plotting the Residuals (Actual Value – Predicted Value) to understand the difference.
 
